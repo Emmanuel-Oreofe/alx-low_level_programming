@@ -1,1 +1,1 @@
-creates an executable
+C program that prints

@@ -1,1 +1,1 @@
-generates assembly code
+generates the assembly code

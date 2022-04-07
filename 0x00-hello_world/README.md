@@ -1,1 +1,1 @@
-compiles a c file
+compiles a file

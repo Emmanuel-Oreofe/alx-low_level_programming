@@ -1,2 +1,1 @@
-#!/bin/bash
-gcc -c $CFILE -o ./$CFILE.o
+compiles a C file

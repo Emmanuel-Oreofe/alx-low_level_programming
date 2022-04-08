@@ -1,1 +1,1 @@
-C program that prints exacltly
+hello, puts

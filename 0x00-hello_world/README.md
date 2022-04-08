@@ -1,1 +1,1 @@
-hello, puts
+print sizes of varoius types

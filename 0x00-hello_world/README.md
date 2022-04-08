@@ -1,1 +1,1 @@
-print sizes of varoius types
+print followed by anew line to the standard error

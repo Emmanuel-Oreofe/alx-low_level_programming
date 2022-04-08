@@ -1,1 +1,1 @@
-generates the assembly code
+prints C program with new line

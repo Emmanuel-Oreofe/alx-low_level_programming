@@ -1,1 +1,1 @@
-C program that prints
+generates the assembly code

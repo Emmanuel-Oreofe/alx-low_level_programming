@@ -1,1 +1,1 @@
-prints C program with new line
+C program that prints exacltly

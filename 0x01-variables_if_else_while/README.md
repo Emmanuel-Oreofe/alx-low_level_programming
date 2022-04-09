@@ -1,1 +1,1 @@
-alphabet in lower case except qand e
+all single digit number

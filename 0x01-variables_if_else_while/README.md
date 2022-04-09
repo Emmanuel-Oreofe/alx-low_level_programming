@@ -1,1 +1,1 @@
-numbers of base 16
+possible combinations of single-digit numbers

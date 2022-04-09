@@ -1,1 +1,1 @@
- assign a random number to a variable
+print last digit of number stored in the variable

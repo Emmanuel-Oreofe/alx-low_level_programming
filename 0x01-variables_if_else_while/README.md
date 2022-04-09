@@ -1,1 +1,1 @@
-print last digit of number stored in the variable
+prints alphabets in lower case

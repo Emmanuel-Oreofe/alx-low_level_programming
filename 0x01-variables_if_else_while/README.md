@@ -1,1 +1,1 @@
-print alphabet in both cases
+alphabet in lower case except qand e

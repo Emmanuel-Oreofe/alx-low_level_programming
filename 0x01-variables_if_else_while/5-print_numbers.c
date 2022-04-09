@@ -2,7 +2,7 @@
 /**
  * main- print all single digit number
  * 10 statting from 0, followed by a new line
- * Return 0 Always (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

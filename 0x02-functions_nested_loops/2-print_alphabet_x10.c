@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * main - prints alphabet 10 times
  * Return: void

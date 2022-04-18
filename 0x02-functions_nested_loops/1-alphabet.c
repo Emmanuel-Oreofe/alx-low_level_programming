@@ -4,7 +4,9 @@
  * followed by a new line
  * Return: Always 0 (Success)
  * print_alphabet - Entry point
-*/
+ * Description: print alphabets
+ */
+
 void print_alphabet(void)
 {
 	char c = 'a';

@@ -4,15 +4,14 @@
  * followed by a new line
  * Return: Always 0 (Success)
  */
-
-void print_alphabet(void) /*declared here*/ 
+void print_alphabet(void)
 {
 	char c = 'a';
-
-	while (c <= 'z');
+	
+	while (c <= 'z')
 	{
-		_putchar('\n');  
+		_putchar(c);
 		c++;
 	}
-        return (c); 
+	_putchar('\n');
 }

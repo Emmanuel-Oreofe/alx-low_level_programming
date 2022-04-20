@@ -1,6 +1,6 @@
 #include <unistd.h>
 #include "main.h"
-/** 
+/**
  * print_alphabet -function that print alphabets in lower case
  * Return: Always 0 (Success)
  */

@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _strstr - locate a substring
- * @haystack: string
- * @needle: string
- * @Return: string
+ * @haystack:string
+ * @needle:string
+ * @Return:string
  */
 char *_strstr(char *haystack, char *needle)
 {

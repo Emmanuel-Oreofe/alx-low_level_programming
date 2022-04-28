@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * _strstr - locate a substring
+ * _strstr - return pointer to the first char of matching substring
  * @haystack:string
  * @needle:string
- * @Return:string
+ * @Return:pointer to first char matching substring
  */
 char *_strstr(char *haystack, char *needle)
 {

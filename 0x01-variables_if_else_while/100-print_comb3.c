@@ -4,29 +4,33 @@
  * main - prints all possible combinations of two two-digit numbers
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	int i, j;
+	int i, e;
 
-	for (i = 0; i < 100; i++)
+	i = 48;
+	e = 48;
+
+	while (e < 58)
 	{
-		for (j = 0; j < 100; j++)
+		i = 48;
+		while (i < 58)
 		{
-			if (i < j)
+			if (e != i && e < i)
 			{
-				putchar((i / 10) + 48);
-				putchar((i % 10) + 48);
-				putchar(' ');
-				putchar((j / 10) + 48);
-				putchar((j % 10) + 48);
-				if (i != 98 || j != 99)
+				putchar(e);
+				putchar(i);
+				if (i == 57 && e == 56)
 				{
-					putchar(',');
-					putchar(' ');
+					break;
 				}
+				putchar(',');
+				putchar(' ');
 			}
-
+			i++;
 		}
+		e++;
 	}
 	putchar('\n');
 	return (0);

@@ -9,7 +9,8 @@
 #include <stdarg.h>
 /**
  * struct printer - A new struct type defining a printer
- * @print: A function pointer to a function that prints data type corresponding to symbol
+ * @print: A function pointer to a function that prints
+ * a data type corresponding to symbol.
  */
 typedef struct printer
 {
